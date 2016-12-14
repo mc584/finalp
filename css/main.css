@@ -136,8 +136,7 @@ p {
    width: 960px;
    margin-left: auto;
    margin-right: auto;
-   border: 1px solid;
-}
+   border: 1px solid;}
 #header {
    background-color: gray;
    height: 86px;
@@ -174,7 +173,7 @@ p {
 #banner {
   clear: both;
   background-color: green;
-  height: 366px;
+  height: 300px;
   line-height: 366px;
   padding-left: 31px;
   padding-right: 31px;
