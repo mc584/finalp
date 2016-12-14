@@ -132,6 +132,7 @@ p {
 .color4 a {
 
    color: #FFFFFF;
+
 }
    #wrapper {
    width: 960px;
@@ -152,6 +153,7 @@ p {
   float: left;
   text-align: right;
   padding-right: 31px;
+  background-color: white;
 }
 #menu a {
   font-family: Sans-Serif;
@@ -161,6 +163,7 @@ p {
 #menu ul {
   margin: 0px;
   padding: 0px;
+  background-color:white;
 }
 #menu li {
   display: inline;
