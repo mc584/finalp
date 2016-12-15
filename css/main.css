@@ -132,8 +132,7 @@ p {
 
    color: #FFFFFF;
 
-}
- #wrapper {
+} #wrapper {
    width: 960px;
    margin-left: auto;
    margin-right: auto;
@@ -181,7 +180,7 @@ padding:25px;
 }
 #callout1, #callout2, #callout3 {
   float: left;
-  width: 320px;
+  width: 283px;
    text-align: center;
 }
 #banner {
