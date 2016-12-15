@@ -150,6 +150,7 @@ p {
   width: 367px;  
    float: left;
    background-color: white;
+
 }
 #menu {
   width: 562px;
@@ -174,6 +175,9 @@ p {
 #logo img {
   height: 86px;
   width: 86px;
+}
+#callouts{
+padding:25px; 
 }
 #callout1, #callout2, #callout3 {
   float: left;
