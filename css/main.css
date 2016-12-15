@@ -140,6 +140,7 @@ p {
    border: 1px solid;
 }
 #header {
+
    background-color: gray;
    height: 86px;
    line-height: 86px;
@@ -177,6 +178,7 @@ p {
 #callout1, #callout2, #callout3 {
   float: left;
   width: 320px;
+   text-align: center;
 }
 #banner {
   clear: both;
