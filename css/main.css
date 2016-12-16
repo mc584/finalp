@@ -173,7 +173,8 @@ p {
 }
 #logo img {
   height: 86px;
-  width: 86px;
+
+   width: 86px;
 }
 #callouts{
 padding:25px; 
@@ -211,6 +212,7 @@ padding:25px;
 
   width: 367px;
   float: left;
+   position: fixed;
 }
 
 
