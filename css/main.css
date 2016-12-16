@@ -165,8 +165,7 @@ p {
 }
 #menu ul {  margin: 0px;
   padding: 0px;  background-color:white;}
-#menu li {
-  display: inline;
+#menu li {  display: inline;
 }
 #logo img {
   height: 86px;
@@ -207,7 +206,7 @@ padding:25px;
 #sidebar {
   width: 367px;
   float: left;
-  position: static;
+  position: fixed;
 }
 
 
