@@ -97,7 +97,6 @@ h3 { font-size: 160%;}
 h4 { font-size: 140%;}
 h5 { font-size: 120%;}
 h6 { font-size: 100%;}
-
 p {
   font-family: Serif;
 }
@@ -133,25 +132,28 @@ p {
 
    color: #FFFFFF;
 
-}
-   #wrapper {
+} #wrapper {
    width: 960px;
    margin-left: auto;
    margin-right: auto;
-   border: 1px solid;}
+   border: 1px solid;
+}
 #header {
+
    background-color: gray;
    height: 86px;
    line-height: 86px;
-}#logo {
+   float: left;
+}
+#logo {
   width: 367px;  
    float: left;
    background-color: white;
+
 }
 #menu {
   width: 562px;
-  float: left;
-  text-align: right;
+  float: left;  text-align: right;
   padding-right: 31px;
   background-color: white;
 }
@@ -160,21 +162,20 @@ p {
   font-size: 20px;
 
 }
-#menu ul {
-  margin: 0px;
-  padding: 0px;
-  background-color:white;
-}
-#menu li {
-  display: inline;
+#menu ul {  margin: 0px;
+  padding: 0px;  background-color:white;}#menu li {  display: inline;
 }
 #logo img {
   height: 86px;
-  width: 86px;
+
+   width: 86px;
+}#callouts{
+padding:25px; 
 }
 #callout1, #callout2, #callout3 {
   float: left;
-  width: 320px;
+  width: 283px;
+   text-align: center;
 }
 #banner {
   clear: both;
@@ -184,7 +185,7 @@ p {
   padding-left: 31px;
   padding-right: 31px;
   background-image: url('https://cdn.asiancorrespondent.com/wp-content/uploads/2016/02/apple-products-940x580.jpg');
-  
+  background-size:100% auto;
 }
 #banner h1 {
   margin: 0px;
@@ -201,9 +202,9 @@ p {
   line-height: 28px;
 }
 #sidebar {
-
   width: 367px;
   float: left;
+  position: static;
 }
 
 
