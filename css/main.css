@@ -163,8 +163,7 @@ p {
   font-size: 20px;
 
 }
-#menu ul {
-  margin: 0px;
+#menu ul {  margin: 0px;
   padding: 0px;  background-color:white;}
 #menu li {
   display: inline;
@@ -207,7 +206,7 @@ padding:25px;
 }
 #sidebar {
   width: 367px;
-  float: right;
+  float: left;
   position: static;
 }
 
