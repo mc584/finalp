@@ -153,8 +153,7 @@ p {
 }
 #menu {
   width: 562px;
-  float: left;
-  text-align: right;
+  float: left;  text-align: right;
   padding-right: 31px;
   background-color: white;
 }
@@ -164,8 +163,7 @@ p {
 
 }
 #menu ul {  margin: 0px;
-  padding: 0px;  background-color:white;}
-#menu li {  display: inline;
+  padding: 0px;  background-color:white;}#menu li {  display: inline;
 }
 #logo img {
   height: 86px;
@@ -206,7 +204,7 @@ padding:25px;
 #sidebar {
   width: 367px;
   float: left;
-  position: fixed;
+  position: static;
 }
 
 
