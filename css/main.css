@@ -173,8 +173,7 @@ p {
   height: 86px;
 
    width: 86px;
-}
-#callouts{
+}#callouts{
 padding:25px; 
 }
 #callout1, #callout2, #callout3 {
@@ -207,7 +206,6 @@ padding:25px;
   line-height: 28px;
 }
 #sidebar {
-
   width: 367px;
   float: right;
   position: fixed;
